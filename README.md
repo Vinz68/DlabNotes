@@ -21,8 +21,7 @@ NOTE: Use npm install --only=production to install only dependencies, and not de
 6. run the program
 open a web browser and test with:
 ```
-http://[your-ip or hostname]/index.html
+http://[your-ip or hostname]/notes.html
 ```
 
-Created using: Using: Visual Studio 2015
 

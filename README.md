@@ -14,7 +14,6 @@ git clone https://github.com/[your-account-name-here]/logTest.git
 ```
 npm install
 ```
-NOTE: Use npm install --only=production to install only dependencies, and not devDependencies,regardless of the value of the NODE_ENV environment variable.
 
 4. create a mobile service and storage.
 5. use DB Script - sql script to create a table which holds the notes
